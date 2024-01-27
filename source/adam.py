@@ -49,6 +49,7 @@ u_ih = 0
 u_ho = 0
 v_ih = 0
 v_ho = 0
+
 for i in range(epochs):
     # Forward Propogation
     
