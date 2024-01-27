@@ -9,3 +9,6 @@ X=np.array([[1,0,1,0], [1,0,1,1], [0,1,0,1]])
 X = X.T
 print ('\n Input:')
 print(X)
+
+# shape of input array
+print('\n Shape of Input:', X.shape)
