@@ -97,3 +97,5 @@ for i in range(epochs):
     # visualizing the error after each epoch
 plt.plot(np.arange(1,epochs+1), np.array(error_adam))
 plt.show()
+
+
